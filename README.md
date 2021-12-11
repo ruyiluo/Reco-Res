@@ -78,7 +78,6 @@
 - [王喆-回顾Facebook经典CTR预估模型](https://zhuanlan.zhihu.com/p/57987311)
 - [王喆-推荐系统中的注意力机制——阿里深度兴趣网络（DIN）](https://zhuanlan.zhihu.com/p/51623339)
 - [张俊林-FFM及DeepFFM模型在推荐系统的探索](https://zhuanlan.zhihu.com/p/67795161)
-
 - [石塔西-用NumPy手工打造 Wide & Deep](https://zhuanlan.zhihu.com/p/53110408)
 
 
