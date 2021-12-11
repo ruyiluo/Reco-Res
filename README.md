@@ -121,7 +121,6 @@
 
 - [王喆-关于深度学习推荐系统领域的15个问题](https://zhuanlan.zhihu.com/p/123103206)
 - [王喆-推荐系统中比模型结构更重要的是什么？[附阿里盖坤，朱小强留言]](https://zhuanlan.zhihu.com/p/73601088)
-
 - [王喆-不要犯战略性的失误——如何合理制定推荐系统的优化目标？](https://zhuanlan.zhihu.com/p/72549613)
 
 
@@ -129,10 +128,8 @@
 ## 领域内相关博主
 
 - [王喆](https://www.zhihu.com/people/wang-zhe-58)
-
 - [石塔西](https://www.zhihu.com/people/si-ta-xi)
 - [张俊林](https://www.zhihu.com/people/zhang-jun-lin-76)
-
 - [iwtbs](https://www.zhihu.com/people/wang-zi-kai-91)
 
 
