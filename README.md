@@ -1,6 +1,6 @@
 # Reco-Res
 
-动态更新工作和学习中阅读或发现的优质推荐系统相关的学习资源，希望能为推荐系统相关行业的同学带来便利。所有资料均来自于互联网，如有侵权，请联系lryeason@163.com。
+动态更新工作和学习中阅读或发现的优质推荐系统相关的学习资源，希望能为推荐系统相关行业的同学带来便利。
 
 
 
@@ -16,9 +16,33 @@
 
 
 
-**TODO：**
+## 最新论文跟踪
 
-1. 根据推荐业务分类的文章、视频、书籍开源项目等
+- [Honglei Zhang的推荐系统论文列表（一直在更新）](https://github.com/hongleizhang/RSPapers)
 
 
 
+## 优质博主
+
+- [王喆](https://www.zhihu.com/people/wang-zhe-58)
+
+- [石塔西](https://www.zhihu.com/people/si-ta-xi)
+- [张俊林](https://www.zhihu.com/people/zhang-jun-lin-76)
+
+- [iwtbs](https://www.zhihu.com/people/wang-zi-kai-91)
+
+  
+
+## 推荐文章
+
+
+
+
+
+## 相关书籍
+
+
+
+
+
+## 推荐视频资料
