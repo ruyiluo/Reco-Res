@@ -16,6 +16,8 @@
 - [RecBole](https://github.com/RUCAIBox/RecBole): RecBole是基于Python和Pytorch开发的，用于在一个统一、全面和高效的框架中复制和开发推荐算法，用于研究目的。
 - [CRSLab](https://github.com/RUCAIBox/CRSLab): CRSLab是一个用于构建对话推荐系统（CRS）的开源工具包，其基于 PyTorch 实现、主要面向研究者使用。
 
+
+
 ## 推荐文章
 
 ### 算法工程师
@@ -33,6 +35,8 @@
 - [石塔西-推荐算法的"五环之歌"](https://zhuanlan.zhihu.com/p/336643635)
 - [张俊林-推荐系统技术演进趋势：从召回到排序再到重排](https://zhuanlan.zhihu.com/p/100019681)
 - [王喆-回顾经典，Netflix的推荐系统架构](https://zhuanlan.zhihu.com/p/114590897)
+
+- [辛俊波-推荐系统中的深度匹配模型](https://zhuanlan.zhihu.com/p/101136699?utm_source=wechat_session&utm_medium=social&utm_oi=753565305866829824&utm_campaign=shareopn)
 
 
 
@@ -61,6 +65,7 @@
 - [张俊林-推荐系统召回四模型之：全能的FM模型](https://zhuanlan.zhihu.com/p/58160982)
 - [张俊林-推荐系统召回四模型之二：沉重的FFM模型](https://zhuanlan.zhihu.com/p/59528983)
 - [张俊林-对比学习视角:重新审视推荐系统的召回粗排模型](https://zhuanlan.zhihu.com/p/424198603)
+- [召回相关算法](https://zhuanlan.zhihu.com/p/268433818)
 
 
 
@@ -73,6 +78,7 @@
 - [王喆-推荐系统中的注意力机制——阿里深度兴趣网络（DIN）](https://zhuanlan.zhihu.com/p/51623339)
 - [张俊林-FFM及DeepFFM模型在推荐系统的探索](https://zhuanlan.zhihu.com/p/67795161)
 - [石塔西-用NumPy手工打造 Wide & Deep](https://zhuanlan.zhihu.com/p/53110408)
+- [朱小强-你真的懂点击率(CTR)建模吗？](https://zhuanlan.zhihu.com/p/372048174?utm_source=wechat_session&utm_medium=social&utm_oi=753565305866829824&utm_campaign=shareopn)
 
 
 
@@ -86,12 +92,25 @@
 
 
 
+### Bias & Debias
+
+- [NewBeeNLP-聊一聊搜索推荐中的 Position Bias](https://mp.weixin.qq.com/s/RuUsCXqqc_Q3yXcVW95bjQ)
+
+
+
+### 多样性
+
+- [杨旭东-基于行列式点过程的推荐多样性提升算法的直观理解](https://zhuanlan.zhihu.com/p/94464178?utm_source=wechat_session&utm_medium=social&utm_oi=753565305866829824&utm_campaign=shareopn)
+
+
+
 ### 工程技术
 
 - [王喆-如何解决推荐系统工程难题——深度学习推荐模型线上serving？](https://zhuanlan.zhihu.com/p/77664408)
 - [王喆-如何增强推荐系统模型更新的「实时性」？](https://zhuanlan.zhihu.com/p/75597761)
 - [王喆-天下武功，唯快不破，论推荐系统的「 实时性」](https://zhuanlan.zhihu.com/p/74813776)
 - [王喆-Netflix推荐系统模型的快速线上评估方法——Interleaving](https://zhuanlan.zhihu.com/p/68509372)
+- [kaggle竞赛宝典-最强搜推实战-有内味了!](https://mp.weixin.qq.com/s/iNLqXtR62JbaWTbncOwAQQ)
 
 
 
@@ -113,6 +132,14 @@
 
 
 
+### 特征工程
+
+- [包包算法笔记-算法工程师的术与道：从特征工程谈数据敏感性](https://mp.weixin.qq.com/s/3aJzbfyNmkgy4MglLdS4Ow)
+
+  
+
+
+
 ### 其他
 
 - [王喆-关于深度学习推荐系统领域的15个问题](https://zhuanlan.zhihu.com/p/123103206)
@@ -128,11 +155,17 @@
 - [张俊林](https://www.zhihu.com/people/zhang-jun-lin-76)
 - [iwtbs](https://www.zhihu.com/people/wang-zi-kai-91)
 
-
+- [美团技术](https://tech.meituan.com/)
+- [水哥](https://zhuanlan.zhihu.com/p/407871839?utm_source=wechat_session&utm_medium=social&utm_oi=753565305866829824&utm_campaign=shareopn)
+- 
 
 ## 相关书籍
 
+- [推荐系统实践-项亮](https://item.jd.com/13206464.html)
+- [深度学习推荐系统-王喆](https://item.jd.com/12630209.html)
+- [从零开始构建企业级推荐系统-张相於](https://item.jd.com/12692113.html)
 
+- [构建企业级推荐系统：算法、工程实现与案例分析](https://item.jd.com/13371346.html)
 
 
 
