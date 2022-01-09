@@ -27,16 +27,21 @@
 - [王喆-如何准备算法工程师面试，斩获一线互联网公司机器学习岗offer？](https://zhuanlan.zhihu.com/p/76827460)
 - [王喆-对于一个领域，深度重要还是广度重要？（可以拿自己所在领域举例，为后来人提供一些经验）?](https://www.zhihu.com/question/434344849/answer/1649753818)
 - [石塔西-四化大业：论算法工程师的自我修养](https://zhuanlan.zhihu.com/p/341376500)
+- [一年级阿里算法工程师的工作总结](https://mp.weixin.qq.com/s/_Y31UPAOr3NObqOEYh1A-A)
+- [年终总结| 以算法岗为例：我最想对入职前的自己说些什么？](https://mp.weixin.qq.com/s/kyzDIc_W8V0xyqXgR7MTKQ)
+- [2021年度回顾 | 分享算法岗工作感悟](https://mp.weixin.qq.com/s/gP08uFnd1A5Ad0JnUYhdbg)
 
-
+  
 
 ### 算法框架/架构
 
 - [石塔西-推荐算法的"五环之歌"](https://zhuanlan.zhihu.com/p/336643635)
 - [张俊林-推荐系统技术演进趋势：从召回到排序再到重排](https://zhuanlan.zhihu.com/p/100019681)
 - [王喆-回顾经典，Netflix的推荐系统架构](https://zhuanlan.zhihu.com/p/114590897)
-
 - [辛俊波-推荐系统中的深度匹配模型](https://zhuanlan.zhihu.com/p/101136699?utm_source=wechat_session&utm_medium=social&utm_oi=753565305866829824&utm_campaign=shareopn)
+- [推荐系统架构与算法流程详解](https://mp.weixin.qq.com/s/xfzUJupEG2C2_6Wl1qxaDA)
+- [推荐系统解构](https://mp.weixin.qq.com/s/SlbznJpp6F0u5NCY8kVWeA)
+- [推荐系统(1): 推荐系统架构](https://zhuanlan.zhihu.com/p/435872330?utm_source=wechat_session&utm_medium=social&utm_oi=753565305866829824&utm_campaign=shareopn)
 
 
 
@@ -82,25 +87,34 @@
 
 
 
-### 重排
+### 样本的艺术
+
+- [Efficient and Effective: 百篇论文概览负采样方法的前世今生](https://mp.weixin.qq.com/s/jkEjxQfh-082vSgj42aWSQ)
+- [推荐系统炼丹笔记7：负样本的艺术](https://mp.weixin.qq.com/s/MnjeuieYjrtRP_zPT2oM9A)
 
 
 
 ### 新技术的应用
 
 - [张俊林-知识蒸馏在推荐系统的应用](https://zhuanlan.zhihu.com/p/143155437)
+- [十篇文章速览多模态推荐系统的最新进展](https://mp.weixin.qq.com/s/LTbU7fIOEY_DVk0AsVCKqQ)
+- [小白入门：一文了解推荐系统中的图神经网络](https://mp.weixin.qq.com/s/hOTlDHLgv-RSFo_gmo5Icg)
 
 
 
 ### Bias & Debias
 
 - [NewBeeNLP-聊一聊搜索推荐中的 Position Bias](https://mp.weixin.qq.com/s/RuUsCXqqc_Q3yXcVW95bjQ)
+- [Debiased Recommendation: 推荐系统去偏研究进展概述](https://mp.weixin.qq.com/s/cJ8p4ocJTLSo0ko1kKcLSA)
+- [再度梳理偏差问题 & 推荐系统去偏最新研究进展](https://mp.weixin.qq.com/s/obYppgRxOwxLg19uyScWsg)
 
 
 
 ### 多样性
 
 - [杨旭东-基于行列式点过程的推荐多样性提升算法的直观理解](https://zhuanlan.zhihu.com/p/94464178?utm_source=wechat_session&utm_medium=social&utm_oi=753565305866829824&utm_campaign=shareopn)
+- [基于多目标优化的推荐系统综述](https://mp.weixin.qq.com/s/wCekWWiUApVfdNwZyzDw3g)
+- [推荐只需要精确？顶会论文看多样化推荐研究趋势](https://mp.weixin.qq.com/s/jnN_KD1LllFQRTQaBVOuDQ)
 
 
 
@@ -111,6 +125,7 @@
 - [王喆-天下武功，唯快不破，论推荐系统的「 实时性」](https://zhuanlan.zhihu.com/p/74813776)
 - [王喆-Netflix推荐系统模型的快速线上评估方法——Interleaving](https://zhuanlan.zhihu.com/p/68509372)
 - [kaggle竞赛宝典-最强搜推实战-有内味了!](https://mp.weixin.qq.com/s/iNLqXtR62JbaWTbncOwAQQ)
+- [推荐系统(1): 推荐系统架构](https://zhuanlan.zhihu.com/p/435872330?utm_source=wechat_session&utm_medium=social&utm_oi=753565305866829824&utm_campaign=shareopn)
 
 
 
@@ -135,16 +150,20 @@
 ### 特征工程
 
 - [包包算法笔记-算法工程师的术与道：从特征工程谈数据敏感性](https://mp.weixin.qq.com/s/3aJzbfyNmkgy4MglLdS4Ow)
+- [搜推实战-终极奥秘！](https://mp.weixin.qq.com/s/6j_M3LhjnD-o-xO7IJlOsA)
+- [最强搜推实战-有内味了！](https://mp.weixin.qq.com/s/iNLqXtR62JbaWTbncOwAQQ)
+- [可能是全网写特征工程最通透的...](https://mp.weixin.qq.com/s/fVwyn67SbE31P9pQQKFnwQ)
+- [石塔西-刀工：谈推荐系统特征工程中的几个高级技巧](https://mp.weixin.qq.com/s/0hBx5iGhftJ7g_6wGSb0KA)
 
   
-
-
 
 ### 其他
 
 - [王喆-关于深度学习推荐系统领域的15个问题](https://zhuanlan.zhihu.com/p/123103206)
 - [王喆-推荐系统中比模型结构更重要的是什么？[附阿里盖坤，朱小强留言]](https://zhuanlan.zhihu.com/p/73601088)
 - [王喆-不要犯战略性的失误——如何合理制定推荐系统的优化目标？](https://zhuanlan.zhihu.com/p/72549613)
+- [请查收 | 2021 阿里妈妈技术文章回顾](https://mp.weixin.qq.com/s/Ao84oXttGj-sRQqc2VIYIA)
+- [2021 腾讯技术十大热门文章](https://mp.weixin.qq.com/s/F1MlLKfEhAqo_6LMyFfFBw)
 
 
 
@@ -154,19 +173,19 @@
 - [石塔西](https://www.zhihu.com/people/si-ta-xi)
 - [张俊林](https://www.zhihu.com/people/zhang-jun-lin-76)
 - [iwtbs](https://www.zhihu.com/people/wang-zi-kai-91)
-
 - [美团技术](https://tech.meituan.com/)
 - [水哥](https://zhuanlan.zhihu.com/p/407871839?utm_source=wechat_session&utm_medium=social&utm_oi=753565305866829824&utm_campaign=shareopn)
-- 
+
 
 ## 相关书籍
 
 - [推荐系统实践-项亮](https://item.jd.com/13206464.html)
 - [深度学习推荐系统-王喆](https://item.jd.com/12630209.html)
 - [从零开始构建企业级推荐系统-张相於](https://item.jd.com/12692113.html)
-
 - [构建企业级推荐系统：算法、工程实现与案例分析](https://item.jd.com/13371346.html)
 
 
 
 ## 视频资料
+
+- [**水淼笔记**](https://space.bilibili.com/691843067), UP主目前更新完了召回相关内容
